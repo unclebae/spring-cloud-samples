@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kido.example.configserver.config-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kido.example.eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/kido.example.eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kido.example.user-service.iml" filepath="$PROJECT_DIR$/.idea/modules/kido.example.user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-example-aggregator.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-example-aggregator.iml" />
+    </modules>
+  </component>
+</project>
