@@ -11,4 +11,15 @@ public class UserController {
     public String getUser(@PathVariable String id) {
         return "userId : " + id;
     }
+
+    @GetMapping("/users/error/{id}")
+    public String getUserError(@PathVariable String id) {
+        try {
+            Thread.sleep(6000);
+        } catch (InterruptedException e) {
+            System.out.println("NO ~~~~~~");
+            return "No ~~~~~ ";
+        }
+        return "userId : " + id;
+    }
 }
